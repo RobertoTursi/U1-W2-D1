@@ -70,9 +70,9 @@ let y = x - 4
  EXTRA: verifica che la loro uguaglianza diventi true se entrambe vengono trasformate in lowercase (senza cambiare il valore di name2!).
 */
 
-/* SCRIVI QUI LA TUA RISPOSTA */
+/* SCRIVI QUI LA TUA RISPOSTA 
 let name1 = "john";
 let name2 = "John";
 console.log(name1 === name2);
 console.log(name1 === name2.toLowerCase());
-
+*/
